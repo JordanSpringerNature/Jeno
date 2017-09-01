@@ -1,0 +1,14 @@
+Words = []
+word = ""
+
+	while true
+
+		word = gets.chomp
+		
+		word.push do |Words|
+
+			if word == ""
+
+			puts 
+
+	end
